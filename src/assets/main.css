@@ -1,0 +1,13 @@
+html {
+  scroll-behavior: smooth;
+}
+body{
+  background: #F2F1EF;
+}
+.logo-icon {
+  color: #e94d35;
+  width: 5vw;
+  height: 5vw;
+  margin-right: 10px;
+  vertical-align: middle;
+ }
